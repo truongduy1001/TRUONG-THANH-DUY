@@ -1,0 +1,5 @@
+{
+  "name": " Image Creator",
+  "description": "An application that allows users to create character images using Gemini's AI (Nano Banana). Users can upload an image, provide descriptions, and generate new artistic versions.",
+  "requestFramePermissions": []
+}
